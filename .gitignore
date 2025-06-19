@@ -1,0 +1,7 @@
+# Virtual Python environment
+.adk
+
+# IntelliJ IDEA project files
+*.iml
+.idea
+build
