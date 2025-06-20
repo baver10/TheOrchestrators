@@ -22,19 +22,25 @@ Use Case Details:
 Follow the instructions in the [ADK documentation](https://google.github.io/adk-docs/get-started/installation/)
 
 ## Carbon Footprint Tracking Agent
-Documentation [here](carbon_footprint_tracking_agent/README.md)
+
+Documentation [here](agents/carbon_footprint_tracking_agent/README.md)
 
 ## Smart Waste & Inventory Agent
-Documentation [here](smart_waste_and_inventory_agent/README.md)
+
+Documentation [here](agents/smart_waste_and_inventory_agent/README.md)
 
 ## Energy Optimization Agent
-Documentation [here](energy_optimization_agent/README.md)
+
+Documentation [here](agents/energy_optimization_agent/README.md)
 
 ## Sustainable Procurement Agent
-Documentation [here](sustainable_procurement_agent/README.md)
+
+Documentation [here](agents/sustainable_procurement_agent/README.md)
 
 ## Compliance & ESG Reporting Agent
-Documentation [here](compliance_and_esg_reporting_agent/README.md)
+
+Documentation [here](agents/compliance_and_esg_reporting_agent/README.md)
 
 ## Orchestration Agent
-Documentation [here](orchestration_agent/README.md)
+
+Documentation [here](agents/orchestration_agent/README.md)
